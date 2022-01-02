@@ -303,7 +303,7 @@ a {
 /* hero
 ===================================== */
 .hero {
-  background: url(../img/portfolio-hero.png) rgba(0, 0, 0, 0.4) center center/cover;
+  background: url(portfolio-hero.png) rgba(0, 0, 0, 0.4) center center/cover;
   width: 100%;
   height: 100vh;
   position: relative;
